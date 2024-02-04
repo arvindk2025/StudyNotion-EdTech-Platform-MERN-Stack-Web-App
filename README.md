@@ -2,6 +2,8 @@
 
 StudyNotion is a modern Ed-Tech platform built using the MERN stack (MongoDB, Express.js, React, Node.js) along with additional technologies such as Axios for API handling and Cloudinary.com for media storage. It is designed to revolutionize the learning experience for students, instructors, and administrators alike.
 
+![StudyNotion_EdTech_Platform ](./assets/img1.1.png?raw=true " CodeHunt ")
+
 ## Key Features
 
 1. **Student Course Purchases:** Students can easily purchase courses offered on the platform, providing them with access to high-quality educational content.
